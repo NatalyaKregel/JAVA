@@ -12,6 +12,7 @@ public class homework2 {
          
 	}
 }
+
 /*
     public static void binar(int a){    
         int b;     

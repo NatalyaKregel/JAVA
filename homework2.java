@@ -11,9 +11,6 @@ public class homework2 {
         System.out.println(Integer.toBinaryString(i));
          
 	}
-
-
-
 }
 /*
     public static void binar(int a){    

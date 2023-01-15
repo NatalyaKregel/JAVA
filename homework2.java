@@ -9,6 +9,10 @@ public class homework2 {
 
         System.out.print("в двоичной системе это число = "); 
         System.out.println(Integer.toBinaryString(i));
+
+        System.out.print("номер старшего бита = "); 
+        int n = (int)(Math.log(i)/Math.log(2))+1;
+        System.out.println(n);
          
 	}
 }
